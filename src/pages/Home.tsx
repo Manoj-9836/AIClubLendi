@@ -19,6 +19,12 @@ const teamMembers = [
     bio: "Computer Science enthusiast specializing in MERN stack and AI/ML applications. Leads the technical direction of projects and ensures smooth execution of club initiatives."
   },
   {
+    name: "Swetha",
+    role: "Technical Head",
+    image: Default,
+    bio: "Computer Science enthusiast specializing in MERN stack and AI/ML applications. Leads the technical direction of projects and ensures smooth execution of club initiatives."
+  },
+  {
     name: "B. Akhil",
     role: "Research & Development Lead",
     image: Default,
@@ -31,13 +37,25 @@ const teamMembers = [
     bio: "Manages AI-driven project development and collaborations. Skilled in coordinating teams, tracking progress, and ensuring impactful project outcomes."
   },
   {
+    name: "P. Jahnavi",
+    role: "Projects Coordinator",
+    image: Default,
+    bio: "Manages AI-driven project development and collaborations. Skilled in coordinating teams, tracking progress, and ensuring impactful project outcomes."
+  },
+  {
     name: "Ch.Bhuvana",
     role: "Workshops & Training Lead",
     image: Default,
     bio: "Passionate about knowledge-sharing and AI skill development. Designs and delivers engaging workshops, bootcamps, and hands-on training sessions for students."
   },
   {
-    name: "Fathima",
+    name: "Farheen Munavvar Fathima",
+    role: "Events Head",
+    image: Default,
+    bio: "Creative organizer ensuring smooth execution of events, hackathons, and seminars. Known for bringing industry experts and students together for impactful experiences."
+  },
+  {
+    name: "Kiran Sai",
     role: "Events Head",
     image: Default,
     bio: "Creative organizer ensuring smooth execution of events, hackathons, and seminars. Known for bringing industry experts and students together for impactful experiences."
