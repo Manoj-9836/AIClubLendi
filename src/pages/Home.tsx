@@ -25,13 +25,13 @@ const teamMembers = [
     bio: "Dedicated researcher exploring AI innovations in NLP and deep learning. Focuses on driving R&D efforts and experimenting with cutting-edge technologies."
   },
   {
-    name: "Sahith",
+    name: "P.Sahith",
     role: "Projects Coordinator",
     image: Default,
     bio: "Manages AI-driven project development and collaborations. Skilled in coordinating teams, tracking progress, and ensuring impactful project outcomes."
   },
   {
-    name: "Bhuvana",
+    name: "Ch.Bhuvana",
     role: "Workshops & Training Lead",
     image: Default,
     bio: "Passionate about knowledge-sharing and AI skill development. Designs and delivers engaging workshops, bootcamps, and hands-on training sessions for students."
@@ -49,19 +49,31 @@ const teamMembers = [
     bio: "Handles external communications, partnerships, and outreach. Skilled in building strong networks that connect the club with industry and academic leaders."
   },
   {
-    name: "K. Revathi",
+    name: "G. Jhansi",
     role: "Marketing & Design Head",
     image: Default,
     bio: "Creative thinker with expertise in branding, social media, and design. Leads the club’s marketing campaigns and ensures a strong digital presence."
   },
   {
-    name: "Pavithra",
+    name: "Ch. Pavithra",
     role: "Membership Coordinator",
     image: Default,
     bio: "Responsible for student onboarding and membership programs. Focused on building a vibrant AI community with active student participation."
   },
   {
-    name: "G. Jhansi",
+    name: "S. Chandra Sekhar Manikanta Reddy",
+    role: "Membership Coordinator",
+    image: Default,
+    bio: "Responsible for student onboarding and membership programs. Focused on building a vibrant AI community with active student participation."
+  },
+  {
+    name: "K. V. Hiran Maavi",
+    role: "Innovation & Idea Head",
+    image: Default,
+    bio: "Encourages students to explore creative AI applications. Drives brainstorming sessions, idea pitching, and innovation challenges."
+  },
+  {
+    name: "G. Sailaja",
     role: "Innovation & Idea Head",
     image: Default,
     bio: "Encourages students to explore creative AI applications. Drives brainstorming sessions, idea pitching, and innovation challenges."
